@@ -1,0 +1,11 @@
+﻿  Car.cpp
+F:\!!!___NB\ооп\lab3\Project33e\Car.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Lab3.3e.cpp
+F:\!!!___NB\ооп\lab3\Project33e\Lorry.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab3\Project33e\Lab3.3e.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Lorry.cpp
+F:\!!!___NB\ооп\lab3\Project33e\Lorry.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab3\Project33e\Lorry.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Object.cpp
+  Generating Code...
+  Project33e.vcxproj -> F:\!!!___NB\ооп\lab3\Project33e\Debug\Project33e.exe
